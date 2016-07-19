@@ -34,7 +34,7 @@ android {
     }
 
     buildTypes {
-        release {
+       /* release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
             shrinkResources true
@@ -43,7 +43,7 @@ android {
             if (shouldSign) {
                 signingConfig signingConfigs.release
             }
-        }
+        }*/
 
         debug {
             versionNameSuffix '-RC'
