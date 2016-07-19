@@ -68,7 +68,7 @@ public final class Nature {
             // Emoji.fromCodePoint(0x1f401),
             Emoji.fromCodePoint(0x1f413),
             // Emoji.fromCodePoint(0x1f983),
-            Emoji.fromCodePoint(0x1f54a),
+            //Emoji.fromCodePoint(0x1f54a),
             Emoji.fromCodePoint(0x1f415),
             Emoji.fromCodePoint(0x1f429),
             Emoji.fromCodePoint(0x1f408),
